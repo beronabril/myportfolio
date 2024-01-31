@@ -505,3 +505,7 @@ h6,
 .trabajo {
     padding-bottom: 10px;
 }
+
+.bi {
+  transition: color 0.3s ease; /* Transición suave del color durante 0.3 segundos */
+}
